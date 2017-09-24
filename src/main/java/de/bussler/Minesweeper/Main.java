@@ -1,11 +1,11 @@
-package de.bussler.Minesweeper;
+package main.java.de.bussler.Minesweeper;
 
 import java.util.Scanner;
 
-import de.bussler.Minesweeper.Board;
-import de.bussler.Minesweeper.Spieler;
-import de.bussler.Minesweeper.Spielleiter;
-import de.bussler.Minesweeper.Zug;
+import main.java.de.bussler.Minesweeper.Board;
+import main.java.de.bussler.Minesweeper.Spieler;
+import main.java.de.bussler.Minesweeper.Spielleiter;
+import main.java.de.bussler.Minesweeper.Zug;
 
 public class Main {
 

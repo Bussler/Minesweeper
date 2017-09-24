@@ -1,7 +1,7 @@
-package de.bussler.tests;
+package test.java.de.bussler.tests;
 
-import de.bussler.Minesweeper.Board;
-import de.bussler.Minesweeper.Spieler;
+import main.java.de.bussler.Minesweeper.Board;
+import main.java.de.bussler.Minesweeper.Spieler;
 
 public class SpielerTest {
 

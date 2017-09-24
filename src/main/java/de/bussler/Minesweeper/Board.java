@@ -1,4 +1,4 @@
-package de.bussler.Minesweeper;
+package main.java.de.bussler.Minesweeper;
 
 public class Board {
 
